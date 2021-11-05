@@ -1,9 +1,18 @@
 # ResultadoAoCubo
 Sistema no qual se mostra para o usuário o resultado do valor da entrada ao cubo;
  
- 1. Instale o programa Dev++;
- 2. abra o programa;
+Instale o programa Dev++ (no sistema operacional windows);
+abra o programa;
+abra o arquivo ResultadoaoCubo.cpp;
+
+cLique em compilar;
+clique em run;
+
+Escreva um valor na entrada;
+Aperte no enter do teclado;
+
+Será mostrado na tela o valor que foi digitado ao cubo;
+
+fim;
+
  
- 3. Adicione uma biblioteca. ex: #include <stdio.h>;
- 4. Abaixo escreva uma função chama CUBO;
- 5. Ao lado dessa função colocamos os valores que serão
